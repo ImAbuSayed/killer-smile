@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/killer-smile/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Killer Smile](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/killer-smile/) |
+| **Get License** | [Official Music Licensing for Killer Smile](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/killer-smile/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਤੇਰੀ ਅੱਖਾਂ ਦਾ ਹਨੇਰਾ ਮੈਨੂੰ ਕਰਦਾ ਤਬਾਹ
+> ਤੇਰੀ ਚੁੱਪ ਦੇ ਇਸ਼ਾਰੇ ਮੈਨੂੰ ਦੱਸਦੇ ਨੇ ਰਾਹ
+> ਮੈਂ ਭੁੱਲਿਆ ਹਾਂ ਜੱਗ ਜਦੋਂ ਤੱਕਿਆ ਹੈ ਤੈਨੂੰ
+> ਤੇਰੇ ਬਿਨਾਂ ਹੁਣ ਕੁਝ ਵੀ ਨਾ ਦਿਸਦਾ ਹੈ ਮੈਨੂੰ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
