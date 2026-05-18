@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/killer-smile/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Killer Smile](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/killer-smile/) |
+| **Get License** | [Get a Licensing Quote for Killer Smile](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/killer-smile/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6de565d8cb964e1d9d73768ed8c2671eb6595e5ddeaad0a602a43850c03a03ab` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
